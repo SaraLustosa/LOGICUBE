@@ -10,6 +10,6 @@ link para artigo científico: https://sol.sbc.org.br/index.php/cbie_estendido/ar
 
 Arthur Suzuki ajls@cesar.school
 
-Sara Lustosa
+Sara Lustosa sccl@cin.ufpe.br
 
 Hugo Rocha - har3@cesar.school
